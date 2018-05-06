@@ -1,14 +1,20 @@
 [
     {
         "id": 0,
-        "url": "https://raw.githubusercontent.com/yicm/Images/master/xiaobaiai/xiaobaiai_swiper_0.jpg"
+        "url": "https://raw.githubusercontent.com/yicm/Images/master/xiaobaiai/xiaobaiai_swiper_0.jpg",
+        "title": "Git实战教程系类",
+        "content": "https://raw.githubusercontent.com/yicm/yicm.github.io/master/_posts/2018-04-12-Git-Practical-tutorial.md"
     },
     {
         "id": 1,
-        "url": "https://raw.githubusercontent.com/yicm/Images/master/xiaobaiai/xiaobaiai_swiper_1.jpg"
+        "url": "https://raw.githubusercontent.com/yicm/Images/master/xiaobaiai/xiaobaiai_swiper_1.jpg",
+        "title": "Git实战教程系类",
+        "content": "https://raw.githubusercontent.com/yicm/yicm.github.io/master/_posts/2018-04-12-Git-Practical-tutorial.md"
     },
     {
         "id": 2,
-        "url": "https://raw.githubusercontent.com/yicm/Images/master/xiaobaiai/xiaobaiai_swiper_2.jpg"
+        "url": "https://raw.githubusercontent.com/yicm/Images/master/xiaobaiai/xiaobaiai_swiper_2.jpg",
+        "title": "Git之本地和远端同步修改，开始初步冲突处理",
+        "content": "https://raw.githubusercontent.com/yicm/yicm.github.io/master/_posts/2018-04-21-Local-and-Remote-Synchronizations-of-Git-are-Modified-and-Initial-Conflict-Resolution-Begins.md"
     }
 ]
